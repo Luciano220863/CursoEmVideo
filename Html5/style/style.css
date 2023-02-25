@@ -1,10 +1,11 @@
-body{
+body {
     background: #abb8c3;
-    margin: 5 5 5 5;
+    margin:0%;
     font-family: 'Lucida Sans Regular';
 }
 
-h1,h2{
+h1,
+h2, h3, h4 {
     font-family: 'Trebuchet MS';
     text-align: center;
     color: black;
@@ -14,23 +15,16 @@ h1,h2{
     border-radius: 10px;
     background-color: darkcyan;
 }
-h3,h4{
-    font-family: 'Times New Roman';
-    text-align: left;
-    color: blue;
-    background-color: darkslategray;
-    border-radius: 5px;
-    margin-left: 20px;
 
-}
-p{
+p {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     text-align: justify;
     margin-left: 20px;
     color: black;
 }
 
-b, blockquote{ 
+b,
+blockquote {
     font-family: 'Tahoma';
     color: brown;
     font-style: oblique;
@@ -39,15 +33,17 @@ b, blockquote{
 .blockquote {
     text-align: center;
 }
-div{
+
+div {
     align-items: center;
 }
 
-ul,ol{
+ul,
+ol {
     align-items: center;
 }
 
-img{
+img {
     width: 594px;
     height: 334px;
 }
